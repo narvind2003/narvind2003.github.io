@@ -4,6 +4,7 @@
 [LinkedIn](https://www.linkedin.com/in/arvind-nagaraj-9a17aa82/) | [Twitter](https://twitter.com/nagaraj_arvind)
 
 I am a software engineer and architect. I live in Bengaluru, India.
+At Invento Robotics, I led the software team that created the Mitra Robot. Previously, I lived in the US and worked as a software consultant for Fortune 100 companies.
 Talk to me about Software, AI, Startups and Formula1!
 
 
