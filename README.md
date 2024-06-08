@@ -3,9 +3,10 @@
 [LinkedIn](https://www.linkedin.com/in/arvind-nagaraj-9a17aa82/) | [Twitter](https://twitter.com/nagaraj_arvind) | [Photography](https://500px.com/arvindnagaraj)
 
 - I am a software engineer and architect. I live in Bengaluru, India.
+- I teach Deep Learning and modern AI techniques - I have taught more than 500 professionals all over the world, since 2022.
 - At Invento Robotics, I led the software team that created the Mitra Robot.
 - Previously, I lived in the US and worked as a software consultant for Fortune 100 companies.
-- Talk to me about Software, AI, Startups and Formula1!
+- I enjoy all things Software, AI, Startups and Formula1!
 
 I love things that look like this!
 
