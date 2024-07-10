@@ -4,7 +4,7 @@
 
 - I am a software engineer and architect. I live in Bengaluru, India.
 - I teach Deep Learning and modern AI techniques - I have taught more than 500 professionals all over the world, since 2022.
-- At Invento Robotics, I led the software team that created the Mitra Robot.
+- At Invento Robotics, I led the software team that created the [Mitra Robot](https://x.com/balajivis/status/1750297912310108551).
 - Previously, I lived in the US and worked as a software consultant for Fortune 100 companies.
 - I enjoy all things Software, AI, Startups and Formula1!
 
