@@ -1,4 +1,4 @@
-![Profile pic](https://media.licdn.com/dms/image/D5603AQH-4TvIcqQHnA/profile-displayphoto-shrink_200_200/0/1703052457346?e=1723075200&v=beta&t=7WXZVOU5jsIQANzJHCYiIEE8tbu5i7JX_L9My9X0bvU) 
+![Profile pic](https://github.com/narvind2003/narvind2003.github.io/blob/main/arvind_profile.jpeg) 
 #### Startups | AI Research & Development | Machine intelligence for human empowerment.
 [LinkedIn](https://www.linkedin.com/in/arvind-nagaraj-9a17aa82/) | [Twitter](https://twitter.com/nagaraj_arvind) | [Photography](https://500px.com/arvindnagaraj)
 
@@ -10,4 +10,4 @@
 
 I love things that look like this!
 
-![code banner](https://media.licdn.com/dms/image/D5616AQEZxS3FgmXeGg/profile-displaybackgroundimage-shrink_350_1400/0/1714933983666?e=1723075200&v=beta&t=8RIidUwCr74AgGMwP1bKjhzYG-_k4NRmco2_AxTQWWQ)
+![code banner](https://github.com/narvind2003/narvind2003.github.io/blob/main/banner.jpeg)
