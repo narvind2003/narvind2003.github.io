@@ -1,4 +1,4 @@
-![Profile pic](https://github.com/narvind2003/narvind2003.github.io/blob/main/arvind_profile.jpeg) 
+![Profile pic](https://raw.githubusercontent.com/narvind2003/narvind2003.github.io/main/arvind_profile.jpeg) 
 #### Startups | AI Research & Development | Machine intelligence for human empowerment.
 [LinkedIn](https://www.linkedin.com/in/arvind-nagaraj-9a17aa82/) | [Twitter](https://twitter.com/nagaraj_arvind) | [Photography](https://500px.com/arvindnagaraj)
 
@@ -10,4 +10,4 @@
 
 I love things that look like this!
 
-![code banner](https://github.com/narvind2003/narvind2003.github.io/blob/main/banner.jpeg)
+![code banner](https://raw.githubusercontent.com/narvind2003/narvind2003.github.io/main/banner.jpeg)
